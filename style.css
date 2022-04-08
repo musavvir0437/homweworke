@@ -50,144 +50,89 @@ nav {
 }
 
 
+.left{
+   position: relative;
+   z-index: 2;
+   width: 620.53px;
+   height: 469.92px;
+   left: 0.41px;
+   top: -490.60px;
+   
+   background: #154444;
 
 
+}
 
+.left>h1{
+   
+   position: relative;
+   width: 458.82px;
+   height: 204px;
+   left: 120.79px;
+   top: 60.12px;
+   
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 56px;
+   line-height: 68px;
+   
+   color: #FFFFFF;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .container{
+.left>p{
+   
 position: relative;
-z-index: 1;
- width: 972px;
- height: 700px;
- left:308.41px;
- top: 102.31px;
-
- background-image: url("./Rectangle\ 2.jpg");
- 
-}
-
-.left{
-    position: relative;
-    z-index: 2;
-    width: 620.53px;
-    height: 469.92px;
-    left: 0.41px;
-  margin;-300%;
-    background #154444 ;
-} */
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* 
-.left{
-
-
- 
-} */
-
-/* h1{
-    margin: 70px auto ;
- 
-    position: absolute;
-    width: 458.82px;
-    height: 204px;
-    left: 120.79px;
-    top:-2%;
-
-
-
-
-
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 700 bold;
-    font-size: 56px;
-    line-height: 68.26px;
-
-    color: #FFFFFF;
-} */
-
-.left p{
-
-    margin: 70px auto ;
-
-
-    position: absolute;
-    width: 333.41px;
-    height: 87px;
-    left: 120.79px;
-    top: 230.12px;
-    
-    font-family: 'DM Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 29px;
-    /* or 145% */
-    
-    
-    color: #FFFFFF;
-    
-}
-
-
-.logo{
- width: 200%;
- height: 100%;
-/* margin: 110% auto; */
-
-    
-position: absolute;
-left: 70.62%;
-right: 27.56%;
-top: 0%;
-bottom: 68.66%;
+width: 333.41px;
+height: 87px;
+left: 120.79px;
+top: 110.12px;
 
 font-family: 'DM Sans';
 font-style: normal;
-font-weight: 700;
-font-size: 32px;
-line-height: 42px;
- 
-/* identical to box height */
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+/* or 145% */
 
 
-color: #244D4D;
+color: #FFFFFF;
+}
 
+.container{
+   position: relative;
+   z-index: 1;
+width: 972px;
+height: 700px;
+left: 348.41px;
+top: 102.31px;
+background-image: url("./Rectangle\ 2.jpg");
 }
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
